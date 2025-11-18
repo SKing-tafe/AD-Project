@@ -13,7 +13,13 @@ Use the following placeholders throughout:
 - `<gateway IP>` — your network’s gateway IP  
 
 ---
-
+## Perequisite - Windows 11 config ##
+ - Turn off firewall
+ - Change network property from Public to Private
+ - Enter the following command
+```powershell
+Enable-PSRemoting
+```
 ## 1. Confirm Connectivity from Windows 11
 
 ```powershell
