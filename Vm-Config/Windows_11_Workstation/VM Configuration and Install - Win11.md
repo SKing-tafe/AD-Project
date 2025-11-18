@@ -17,7 +17,12 @@ Use standard settings for Australia (NSW)
 		- **BypassTPMCheck**: Set the value to 1.
 		- **BypassSecureBootCheck**: Set the value to 1. 
 		- **BypassRAMCheck**: Set the value to 1 if bypassing RAM requirements.
-	- Close the Registry Editor and Command Prompt.	
+	- Close the Registry Editor and Command Prompt.
+ - <add section about:
+      - Computer name: skip
+      - setup for school or work
+      - Sign-in options: join a domain
+      - turn off privacy settings.
 	- Proceed with the Windows 11 installation.
 
 Use the following:
@@ -25,3 +30,4 @@ Use the following:
 **Password:** #secRet#
 
 **Answer to security all security questions:** bob
+
